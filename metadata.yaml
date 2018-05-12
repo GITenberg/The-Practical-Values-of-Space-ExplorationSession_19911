@@ -1,0 +1,32 @@
+_repo: The-Practical-Values-of-Space-ExplorationSession_19911
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Congress. House. Committee on Science and Astronautics.
+    gutenberg_agent_id: '8960'
+    url: http://www.gutenberg.org/2009/agents/8960
+description: ''
+gutenberg_issued: '2006-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19911'
+  lccn: '60061854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronautics -- United States'
+- !lcc 'TL'
+- !lcsh 'Astronautics and civilization'
+title: 'The Practical Values of Space Exploration
+
+  Report of the Committee on Science and Astronautics, U.S.
+
+  House of Representatives, Eighty-Sixth Congress, Second
+
+  Session'
+url: http://www.gutenberg.org/ebooks/19911
